@@ -1,0 +1,7 @@
+@InProceedings{Wang_2018_CVPR,
+author = {Wang, Tianlu and Yamaguchi, Kota and Ordonez, Vicente},
+title = {Feedback-Prop: Convolutional Neural Network Inference Under Partial Evidence},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+}

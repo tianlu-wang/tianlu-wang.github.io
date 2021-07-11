@@ -1,0 +1,18 @@
+@inproceedings{wang-etal-2020-double,
+    title = "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation",
+    author = "Wang, Tianlu  and
+      Lin, Xi Victoria  and
+      Rajani, Nazneen Fatema  and
+      McCann, Bryan  and
+      Ordonez, Vicente  and
+      Xiong, Caiming",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.484",
+    doi = "10.18653/v1/2020.acl-main.484",
+    pages = "5443--5453",
+    abstract = "Word embeddings derived from human-generated corpora inherit strong gender bias which can be further amplified by downstream models. Some commonly adopted debiasing approaches, including the seminal Hard Debias algorithm, apply post-processing procedures that project pre-trained word embeddings into a subspace orthogonal to an inferred gender subspace. We discover that semantic-agnostic corpus regularities such as word frequency captured by the word embeddings negatively impact the performance of these algorithms. We propose a simple but effective technique, Double Hard Debias, which purifies the word embeddings against such corpus regularities prior to inferring and removing the gender subspace. Experiments on three bias mitigation benchmarks show that our approach preserves the distributional semantics of the pre-trained word embeddings while reducing gender bias to a significantly larger degree than prior approaches.",
+}
