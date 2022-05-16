@@ -1,0 +1,16 @@
+@article{DBLP:journals/corr/abs-2110-07736,
+  author    = {Tianlu Wang and
+               Diyi Yang and
+               Xuezhi Wang},
+  title     = {Identifying and Mitigating Spurious Correlations for Improving Robustness
+               in {NLP} Models},
+  journal   = {CoRR},
+  volume    = {abs/2110.07736},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2110.07736},
+  eprinttype = {arXiv},
+  eprint    = {2110.07736},
+  timestamp = {Fri, 22 Oct 2021 13:33:09 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2110-07736.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
